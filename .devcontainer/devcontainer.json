@@ -18,6 +18,5 @@
     "esbenp.prettier-vscode",
     "GitHub.vscode-github-actions"
   ],
-  "postCreateCommand": "./.devcontainer/postCreateCommand.sh",
-  "postAttachCommand": "./.devcontainer/postAttachCommand.sh"
+  "postCreateCommand": "./.devcontainer/postCreateCommand.sh"
 }
