@@ -4,6 +4,10 @@ authors: [dubzzz]
 tags: [tag1, tag2]
 ---
 
+Second Article introduction!
+
+<!--truncate-->
+
 ## Part 1
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut est semper lacus facilisis aliquam. Integer porttitor est eget nisi vehicula, id commodo leo ullamcorper. Fusce fermentum euismod purus, ac pharetra justo cursus eget. Donec et porttitor ante. Ut eget rhoncus dolor, quis imperdiet metus. Vestibulum leo nibh, elementum id sapien eget, fermentum blandit lectus. Maecenas in eros ut nisi pellentesque pulvinar sed eu nibh. Aliquam laoreet urna ex, tincidunt ultrices nunc sollicitudin a.

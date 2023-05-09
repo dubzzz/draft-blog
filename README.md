@@ -18,6 +18,12 @@ title: Name
 authors: [github-handle1, github-handle2]
 tags: [tag1, tag2]
 ---
+
+Name introduction!
+
+<!--truncate-->
+
+Your content!
 ```
 
 Any asset belonging to the blog post must be stored within the directory corresponding to the post.
