@@ -1,4 +1,5 @@
 ---
+slug: the-third
 title: The Third
 authors: [dubzzz]
 tags: [tag1, tag3]

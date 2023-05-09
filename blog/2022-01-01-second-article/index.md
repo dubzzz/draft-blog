@@ -1,4 +1,5 @@
 ---
+slug: second-article
 title: Second Article
 authors: [dubzzz]
 tags: [tag1, tag2]
