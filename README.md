@@ -14,9 +14,11 @@ Your file should start by:
 
 ```md
 ---
+slug: slug-name
 title: Name
 authors: [github-handle1, github-handle2]
 tags: [tag1, tag2]
+draft: true
 ---
 
 Name introduction!

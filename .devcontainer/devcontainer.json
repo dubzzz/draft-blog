@@ -18,8 +18,7 @@
     "esbenp.prettier-vscode",
     "GitHub.vscode-github-actions"
   ],
-  "postCreateCommand": "./.devcontainer/postCreateCommand.sh",
   "postAttachCommand": {
-    "server": "npm run start -- --host 0.0.0.0"
+    "server": "npm ci && npm run start -- --host 0.0.0.0"
   }
 }

@@ -1,7 +1,9 @@
 ---
+slug: my-first-article
 title: My First Article
 authors: [dubzzz]
 tags: [tag1, tag2]
+draft: true
 ---
 
 My First Article introduction!
