@@ -11,16 +11,16 @@ const config = {
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://dubzzz.github.io/",
+  url: "https://gopigment.github.io/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/draft-blog/",
+  baseUrl: "/blog/",
   trailingSlash: true,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "dubzzz", // Usually your GitHub org/user name.
-  projectName: "draft-blog", // Usually your repo name.
+  organizationName: "gopigment", // Usually your GitHub org/user name.
+  projectName: "blog", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
